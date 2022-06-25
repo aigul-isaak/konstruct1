@@ -1,0 +1,36 @@
+main {
+    /* width: 941px; */
+    height: 344px;
+    margin: 0 auto;
+    /* display: flex; */
+    background-color: aqua;
+}
+.main_story {
+    margin: 0 auto;
+}
+.main_text {
+    /* width: 405.08px; */
+    font-family: "OpenSans";
+    color: #48555B;
+    letter-spacing: 0.1875px ;
+}
+.main_text h1 {
+    font-size: 20px;
+   
+}
+.main_text span{
+ color: #16ACE8;
+}
+.main_text p {
+    font-size: 13px;
+}
+
+
+.main_landing {
+    background-color: red;
+    display: flex;
+    /* margin-right: 250px; */
+    /* margin-left: 250px; */
+    justify-content: space-between;
+    /* flex-flow: end; */
+}

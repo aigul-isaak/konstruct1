@@ -1,0 +1,132 @@
+
+
+
+.get {
+    img {
+      width: 100%;
+    }
+    h3 {
+      position:absolute;
+      width: 350px;
+      margin-left: calc(100vw /3);
+      height: 72px;
+      font-size: 36px;
+      letter-spacing: 0.15px;
+      font-family: "OpenSans";
+      color: #48555B; 
+    }
+    button {
+        position: absolute;
+        width: 150px;
+        color:$color ;
+        margin-top: 10rem;
+        margin-left: calc(100vw /2.5);
+        border: none;
+        background-color: #00A4E5;
+        height: 40px;
+    }
+}
+.footer_main {
+  background: #171819;
+  // width: $page_width;
+  // margin: 0 auto;
+}
+.footer1 {
+  height: 100px;
+}
+.footer_button {
+    width: 685px;
+    height: 40px;
+    color: #979797;
+    margin: 0 auto;
+    margin-top: -10px;
+    padding-top: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    h3 {
+      font-size: 22px;
+      color: $color;
+      width: 216px;
+    }
+    button {
+      padding-right: 5rem;
+      color:$color ;
+      height: 40px;
+      background: #00A4E5;
+    }
+    input {
+      width: 250px;
+      height: 31px;
+      margin-left: 5rem;
+    }
+  }
+  
+  .footer2 {
+            height: 240px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            justify-content: center;
+            
+  }
+ 
+  .f1 {
+    width: 250px;
+    height: 148px;
+    padding-right: 2rem;
+  }
+  .f2 {
+    width: 262px;
+    height: 150px;
+    justify-content: space-around;
+    display: flex;
+    margin-right: 6rem;
+    
+      p {
+        text-transform: uppercase;
+        font-size: 11px;
+        color: $color;
+        margin-right: -4.8rem;
+      }
+    ul {
+      padding-top: 1rem;
+      color: $color;
+      font-size: 11px;
+      width: 76px;
+      font-family:$fontf;
+      letter-spacing: 0.846154px;
+      text-transform: uppercase;
+      flex-direction:column;
+    }
+    li {
+      list-style: none;
+      padding: 5px;
+    }
+    a {
+      text-decoration: none;
+      color: $color;
+      text-transform: uppercase;
+    }
+  }
+  .f3 {
+    width: 141px;
+    height: 158px;
+  }
+  .f4 {
+    width: 87px;
+    height: 87px;
+  }
+  .footer_3 {
+    background: #171819;
+    width: $page_width;
+    height: 60px;
+    p {
+      color: $color;
+      padding-left:calc(100vw /3)
+    }
+  }
+
+
+  
+  
